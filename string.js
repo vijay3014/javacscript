@@ -62,4 +62,4 @@ let data="JavaScript is the world's most popular programming language."
 // console.log(txt.padStart(8,"-"))
 // console.log(txt.padEnd(8,"*"))
 
-// console.log(data.split("a"))
+// console.log(data.split("")) // no peramiter pass .single array get
